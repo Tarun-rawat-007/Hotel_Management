@@ -1,0 +1,6 @@
+use hms;
+select * from addcustomer;
+
+select * from addroom;
+
+select * from employee;
